@@ -103,7 +103,7 @@ links to other agricultural vocabularies.
 One third of LandVoc terms are already mapped to GACS (via AGROVOC), so 
 putting LandVoc onto a GACS basis is within reach.
 
-### GACS use case: Crop Ontology (Elizabeth Arnaud, Bioversity, CGIAR)
+#### GACS use case: Crop Ontology (Elizabeth Arnaud, Bioversity, CGIAR)
 
 Phenotype (trait) data from plant breeders describes germplasm varieties
 according to variables such as plant height and grain weight.  The
@@ -201,7 +201,7 @@ should be as light as possible: enough to help disambiguate, or perhaps to
 help navigation, but not more.  Facets, thematic groups, and other views 
 should be used for exracting sets of needed concepts.
 
-#### Best practice example: (Dean Allemang, Working Ontologist)
+#### Best practice example: Financial Industry Business Ontology (Dean Allemang, Working Ontologist)
 
 The Financial Industry Business Ontology, or FIBO, is owned by a consortium of
 circa 150 members, primarily banks.  FIBO was built in response to the Basel

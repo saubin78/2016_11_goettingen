@@ -15,10 +15,10 @@ INRA's assets:
 * Reference lists (e.g. crop pests) -- some teams are making available, but not 
   as RDF resources -- taxonomies.
 * Lexicons for text mining tools.  Developed by Scientific and Technical Dept, 
-  which I am from.  These are domain-specific, need to be highly lexicalized. 
+  which I am from, or researc teams.  These are domain-specific, need to be highly lexicalized. 
   Sometimes contain patterns to recognize portions of text.  Denote concepts that 
-  are shared with the community, but of a different nature.
-* Datasets hosted in Inra's data centers or community public repositories: non RDF, 
+  are shared with the community, but in a different manner.
+* Datasets hosted in Inra's data centers or community public repositories: generally non RDF, 
   but could be documented or annotated with RDF resources in order to enter the 
   Semantic Web.
 * Other interests: how we process data produced by connected objects for agriculture.
@@ -61,11 +61,11 @@ ontologies to increase interoperability with databases, tools, service.
 __Sophie__: [Slide 5] How INRA sees GACS.  We need a set of concepts
 representing the domain, globally, because we need that broad scope.  But we
 also need lists of reference.  We constantly need to refer to the same animals,
-crops, diseases, and we tempted to re-start the work all the time, and never
+crops, diseases, and we often tempt to re-start the work, and never
 know which is the reference to use.  We reuse parts of existing things, extend
 them, and its very difficult, and we really need this, and we need to share
 those references with industry, civil society, and this will be very valuable.
-IS-A relationship is good, but that I think that is quite contentious.  As
+IS-A relationship is good, but that I think that is quite consensual.  As
 for hierarchy: if we need one, it should be light, only to disambiguate maybe,
 or to help navigating, but not more.  I am quite convinced that facets, groups
 for thematics or other views would be useful for access and reuse -- discover
@@ -110,7 +110,7 @@ about how do we accept donations.
 __Tom__: When you say ontologies, do you mean OWL?
 
 __Sophie__: There is a great variety of what people call ontologies.
-Ontologies in OBO.  Some are very large.  Some are very formal.  Sometimes not
+Also ontologies in OBO.  Some are very large.  Some are very formal.  Sometimes not
 even any label.
 
 __Derek__: The URI is important as well.  Are you using the reference lists 
@@ -140,7 +140,7 @@ lists for the headers of databases.  Why is this so important now?  Because we
 have the big data hype.  And it's not only hype.  Even if it were only hype it 
 would be important, because hype brings us clout, but it is really an explosion 
 of data production, and if we don't seize the opportunity to be influential in 
-this area, with the GACS, we waste and opportunity.
+this area, with the GACS, we waste an opportunity.
 
 __Dean__: We miss the boat, yes.
 
